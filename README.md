@@ -11,6 +11,9 @@ The Student Progress Analyzer System is a project that aims to predict the acade
 
 ## Features
 
+
+
+
 - Predicts the performance of a student based on their marks
 - Provides insights on which students are slow, average, or good performers
 - Assists in creating personalized learning plans for students
@@ -29,20 +32,6 @@ The Student Progress Analyzer System is a project that aims to predict the acade
 
 
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways to get started.
 
 
 
-## Authors
-
-- [@KunalSalunkhe12](https://github.com/KunalSalunkhe12)
-- [@Saloni-FED](https://github.com/Saloni-FED)
-- [@Rishabh23122211](https://github.com/rishabh23122211)
-- [@AnujTiwari](https://github.com/anuj2077)
-
-## License
-[MIT license](LICENSE)
